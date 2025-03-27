@@ -261,7 +261,7 @@ func main() {
 		return
 	}
 
-	baseURL := "https://xgf.nu/"
+	baseURL := "https://55.gigafile.nu/0630-me73cb1e6bf5b484745e077ea85e233e4"
 	numWorkers := 25 // 並行して動作させるワーカーの数
 	var wg sync.WaitGroup
 
